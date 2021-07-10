@@ -1,0 +1,5 @@
+package name
+
+func main() {
+
+}
