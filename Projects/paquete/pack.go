@@ -2,7 +2,6 @@ package main
 
 import (
 	"./Test"
-	"fmt"
 )
 
 func main() {
